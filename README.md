@@ -14,6 +14,7 @@ This project can help you learn about several key concepts in Python programming
     Conditional statements and logical operators
 
 You can customize this program to suit your needs, such as by adding more complex password generation algorithms or integrating it with other programs. Additionally, you can explore ways to securely store and manage passwords, such as using encryption and password management tools.
+[Password_Generator](https://github.com/fa-iizii/Python-Projects/tree/main/Password_Generator)
 
 - **Project 2:** Description of project 2
 - **Project 3:** Description of project 3
