@@ -42,5 +42,5 @@ This project is licensed under the [MIT License](https://github.com/<username>/<
 
 Thanks for checking out my repository! If you have any questions or feedback, feel free to [contact me](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/faiz-muhammed/).
 
-[![GitHub stars](https://img.shields.io/github/stars/<fa-iizii>/<fa-iizii>.svg)](https://github.com/<fa-iizii>/<fa-iizii>/stargazers)
-[![GitHub license](https://img.shields.io/github/license/<username>/<repository>.svg)](https://github.com/<username>/<repository>/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/fa-iizii/fa-iizii.svg)](https://github.com/fa-iizii/fa-iizii/stargazers)
+[![GitHub license](https://img.shields.io/github/license/fa-iizii/<repository>.svg)](https://github.com/fa-iizii/<repository>/blob/main/LICENSE)
